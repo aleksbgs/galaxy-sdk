@@ -1,0 +1,26 @@
+# Go
+/bin/
+/pkg/
+*.exe
+*.dll
+*.so
+*.dylib
+*.test
+*.out
+
+# Go build cache
+/.cache/
+
+# IDE
+.idea/
+*.iml
+
+# Logs / runtime
+/logs/
+/run/
+
+# CometBFT home (local)
+/.cometbft/
+
+# OS
+.DS_Store
